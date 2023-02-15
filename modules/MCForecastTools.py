@@ -2,7 +2,6 @@
 import numpy as np
 import pandas as pd
 import os
-
 import datetime as dt
 import pytz
 import hvplot.pandas

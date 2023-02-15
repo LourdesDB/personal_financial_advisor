@@ -1,10 +1,10 @@
 import pandas as pd
 from pathlib import Path
-import os
-import requests
-import json
+# import os
+# import requests
+# import json
 import pandas as pd
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 import datetime
 from yahoo_fin.stock_info import get_data
