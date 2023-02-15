@@ -1,4 +1,4 @@
-
+# these functions define 3 text blocks that are displayed on the Introduction tab
 
 def get_intro():
     text = """\

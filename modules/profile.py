@@ -1,6 +1,6 @@
-# from matplotlib.figure import Figure
-# from matplotlib import cm
-# from matplotlib.backends.backend_agg import FigureCanvas 
+# these functions return items for display on the Portfolio Profile tab
+
+
 import pandas as pd
 from bokeh.palettes import Category20c, Category20
 from bokeh.plotting import figure
@@ -27,6 +27,7 @@ def make_pie(data):
     p.grid.grid_line_color = None
     return p
 
+# create dataframe showing portfolio asset weights in a more standard format (i.e. 60 instead of 0.60)
 def make_weight_chart(weight):
     w = weight.copy()
     w['Percent Allocation'] = w['weight'] * 100

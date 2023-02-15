@@ -1,6 +1,6 @@
-# Portfolio Selection Tool
+# MyWealthPlan Portfolio Selection Tool
 
-The Portfolio Selection Tool is a web application designed to determine a user's risk tolerance for investments, and based upon that tolerance present them with information on one of 5 preselected portfolios who's asset weightings align with the user's risk tolerance.  
+The Portfolio Selection Tool is a dashboard application designed to determine a user's risk tolerance for investments, and based upon that tolerance present them with information on one of 5 preselected portfolios who's asset weightings align with the user's risk tolerance.  
 
 After being matched to a portfolio, the user can navigate between 3 informational tabs to find details related to their portfolio, including asset category weights, historical performance and potential future performance.
 
