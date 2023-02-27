@@ -128,7 +128,12 @@ Future work and/or enhancements to this project include:
 
 
 ---
+## Live Application Demo
 
+A live demo of the Portfolio Selection Tool can be found online: [MyWealthPlan](http://mywealthplan.herokuapp.com/mywealthplan).  Please note that this demo is hosted in a developmental envirionment and may take a minute or two before initially responding.
+
+
+---
 ## Disclaimer
 
 The information provided through this application is for information and educational purposes only. 
